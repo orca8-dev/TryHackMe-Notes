@@ -1,0 +1,12 @@
+#15042022
+
+Link: https://tryhackme.com/room/idsevasion
+
+IDS (Intrusion Detection Systems) and cyber evasion techniques
+
+Target: Full system takeover whilst experimenting with evasion techniques from all stages of a cyber kill chain.
+
+IDS used to defend the network by automatically detecting the suspicious activity; Signature based asnd Anomaly based IDS are available.
+
+Once the malicious data is detected, it then elevates the issue and data to data visualization and logging platforms such as graylog or ELK stack.
+
